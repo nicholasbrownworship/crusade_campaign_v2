@@ -1,21 +1,22 @@
-# Zone Dossier – Void Port
+# Zone Dossier — Void Port
 
-## Overview
+## Zone Overview
 - **Zone Type:** Spaceport
-- **Strategic Role:** Supply & Reinforcement
-- **Current Controller:** Neutral
-- **Control Level:** 0%
+- **Strategic Theme:** Rapid insertion, orbital deployment
+- **Current Controller:** —
+- **Control Level:** —
 
-## Strategic Effects
-**75% Control:**  
-Reinforcements arrive more reliably; limited reserve manipulation is allowed.
+## In-Battle Effects
 
-**100% Control:**  
-The controlling faction may influence campaign deployment timing once per round.
+### 75% Control — Authorized Drop
+- Before the battle, select **one unit** in your army.
+- That unit gains the **Deep Strike** ability for this battle.
 
-## Zone Scars
-- **Cratered Runways** – Air and orbital support options are restricted.
+### 100% Control — Precision Insertion
+- The selected unit gains **Deep Strike**, and
+- May be set up **within 3" of enemy units** instead of the normal distance.
+- That unit may **Charge in the same turn** it arrives.
 
-## Narrative Hook
-Once the lifeline of Bastior Prime, the Void Port now lies shattered.
-Whoever reopens it controls the flow of war.
+## Notes
+- If the selected unit already has Deep Strike, it instead gains the 100% control benefits.
+- This effect may only be used once per battle.
