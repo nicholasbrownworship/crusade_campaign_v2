@@ -1,21 +1,20 @@
-# Zone Dossier – Fortress District
+# Zone Dossier — Fortress District
 
-## Overview
+## Zone Overview
 - **Zone Type:** Military Bastion
-- **Strategic Role:** Defensive Anchor
-- **Current Controller:** Defenders
-- **Control Level:** 100%
+- **Strategic Theme:** Fortifications, layered defenses
+- **Current Controller:** —
+- **Control Level:** —
 
-## Strategic Effects
-**75% Control:**  
-Defending armies may reroll one failed Saving Throw per battle fought in this zone.
+## In-Battle Effects
 
-**100% Control:**  
-Attackers suffer a disadvantage when deploying Strategic Assets in battles fought here.
+### 75% Control — Defensive Lines
+- Select **one Battleline unit** in your army.
+- That unit gains **+1 to its Armor Save** while it is wholly within your deployment zone.
 
-## Zone Scars
-- **Breach Lines** – Fortifications are compromised; defensive rerolls are limited to once per battle.
+### 100% Control — Hardened Bastions
+- Select **two Battleline units** instead of one.
 
-## Narrative Hook
-Gun towers still burn across the skyline, but every wall bears scars of assault.
-This district will not fall easily — or quietly.
+## Notes
+- This effect does not stack with other save modifiers beyond normal game limits.
+- Units lose the benefit immediately if they leave the deployment zone.
