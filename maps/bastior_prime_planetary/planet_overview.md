@@ -1,22 +1,26 @@
-# Bastior Prime – Planetary Crusade Map
+# Bastior Prime — Planetary Crusade Campaign
 
-## Planet Type
+## Planet Classification
 Imperial Fortress World
 
 ## Campaign Scope
-This Crusade campaign represents a focused war for control of Bastior Prime itself.
-Battles are fought over key planetary zones rather than across multiple worlds.
+This Crusade campaign represents a planet-scale conflict fought across key strategic zones on Bastior Prime.
+Each zone is controlled independently and provides in-battle effects to the controlling faction.
 
-## Zone Control
-- Each zone is controlled independently.
-- Zones use standard control levels: 0 / 25 / 75 / 100.
-- Control effects apply immediately when thresholds are reached.
+## Control Levels
+Zones use the following control thresholds:
+- 0% — Uncontrolled
+- 25% — Contested
+- 75% — Dominant Control
+- 100% — Full Control
 
-## Planetary Victory
-A faction wins the Bastior Prime campaign if it controls:
-- **4 of 5 zones at 100%**, or
-- **All 5 zones at 75% or higher** simultaneously.
+Zone effects become active immediately upon reaching the listed control threshold.
+
+## Planetary Victory Conditions
+A faction wins the Bastior Prime campaign if it achieves one of the following:
+- Controls **4 of 5 zones at 100%**, or
+- Controls **all 5 zones at 75% or higher** at the end of a campaign round.
 
 ## Planetary Scar Rule
-If a faction loses control of Bastior Prime entirely, the planet gains a permanent
-**Planetary Scar** that affects all future campaigns fought here.
+If a faction loses control of Bastior Prime entirely, the planet gains a permanent Planetary Scar
+that applies to all future campaigns fought here.
