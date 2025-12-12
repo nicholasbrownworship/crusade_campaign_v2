@@ -1,21 +1,20 @@
-# Zone Dossier – Manufactorum Belt
+# Zone Dossier — Manufactorum Belt
 
-## Overview
+## Zone Overview
 - **Zone Type:** Industrial Zone
-- **Strategic Role:** War Production
-- **Current Controller:** Attackers
-- **Control Level:** 25%
+- **Strategic Theme:** War production, materiel supply
+- **Current Controller:** —
+- **Control Level:** —
 
-## Strategic Effects
-**75% Control:**  
-The controlling faction gains limited access to additional wargear requisitions.
+## In-Battle Effects
 
-**100% Control:**  
-Once per round, one unit may gain a temporary battlefield upgrade during a Crusade battle.
+### 75% Control — Manufactorum Issue
+- Once per battle, one unit may add **+1 Strength** to one of its weapon profiles
+  for a single Shooting or Fight phase.
 
-## Zone Scars
-- **Machine-Shrine Desecration** – Industrial output is unstable; benefits may be delayed or weakened.
+### 100% Control — Prototype Allocation
+- Once per battle, **two different units** may each use this effect.
 
-## Narrative Hook
-Smoke-choked skies and shattered assembly lines mark this zone.
-Every victory here fuels the next assault — if the machines can still be made to obey.
+## Notes
+- Declare use of this effect before making any attack rolls.
+- This effect does not persist beyond the selected phase.
