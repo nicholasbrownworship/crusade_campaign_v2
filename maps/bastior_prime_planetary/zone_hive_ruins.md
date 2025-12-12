@@ -1,21 +1,19 @@
-# Zone Dossier – Hive Ruins
+# Zone Dossier — Hive Ruins
 
-## Overview
+## Zone Overview
 - **Zone Type:** Urban Wasteland
-- **Strategic Role:** Attrition Zone
-- **Current Controller:** Raiders
-- **Control Level:** 75%
+- **Strategic Theme:** Close-quarters warfare, momentum
+- **Current Controller:** —
+- **Control Level:** —
 
-## Strategic Effects
-**75% Control:**  
-Battles fought here may include additional battlefield hazards.
+## In-Battle Effects
 
-**100% Control:**  
-Enemy forces suffer morale penalties when fighting in this zone.
+### 75% Control — Relentless Advance
+- Units from the controlling army may **Advance and Charge** during this battle.
 
-## Zone Scars
-- **Endless Slaughter** – Civilian presence complicates objectives and victory conditions.
+### 100% Control — Kill-Zone Familiarity
+- Units from the controlling army may **Advance and Charge**, and
+- Once per battle, the controlling player may select **one unit** to **re-roll its Charge roll**.
 
-## Narrative Hook
-Collapsed spires and mass graves define the Hive Ruins.
-No faction truly holds this ground — they merely survive it longer than the rest.
+## Notes
+- These effects apply to all units unless restricted by their own datasheets.
